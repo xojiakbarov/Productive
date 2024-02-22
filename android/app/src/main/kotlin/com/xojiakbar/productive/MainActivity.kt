@@ -1,4 +1,4 @@
-package org.cdevs.productive
+package com.xojiakbar.productive
 
 import io.flutter.embedding.android.FlutterActivity
 
